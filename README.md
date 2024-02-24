@@ -1,5 +1,9 @@
 # PowerBi-Project
 
+ ## Project Architecture
+
+<img width="681" alt="Architecture" src="https://github.com/nishathmhd/PowerBi-Project/assets/117710744/8bacd79d-02e3-4106-afb0-9b103b3d6f25">
+
  ## Order Page
  
 <img width="948" alt="order" src="https://github.com/nishathmhd/PowerBi-Project/assets/117710744/bef8ac93-e084-4406-9dcb-53d95053b2cf">
